@@ -1,1 +1,1 @@
-First Website made on React using Tailwind, some FlexBox, components and responsive design
+*First Website made on React using TailwindCSS, some FlexBox, creation of components and responsive design.
