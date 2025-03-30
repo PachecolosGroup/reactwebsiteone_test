@@ -1,1 +1,4 @@
-# First Website made on React using TailwindCSS, some FlexBox, creation of components and responsive design.
+# First Website made on React 
+Using TailwindCSS, FlexBox, I start creating the folder for all the components and with the responsive approach first.
+
+
